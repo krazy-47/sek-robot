@@ -542,3 +542,17 @@ void stopMotors() {
   digitalWrite(IN3, LOW);
   digitalWrite(IN4, LOW);
 }
+
+//-----BEGIN PGP SIGNED MESSAGE-----
+//Hash: SHA512
+//
+//this code was written by crazy_8
+//
+//-----BEGIN PGP SIGNATURE-----
+//
+//iHUEARYKAB0WIQQlKjYpAqnkt7LQXr2AIxHalGKejAUCagta+gAKCRCAIxHalGKe
+//jJGiAP9OMKvIAjnOcXbOzzsf+nKqGct2PDyBrTulJokPf9f4tgEAlh55xgl2jpHP
+//6EK7uneH9RdePYDq7fLOVOqvlein5gs=
+//=8qeh
+//-----END PGP SIGNATURE-----
+
